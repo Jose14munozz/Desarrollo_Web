@@ -1,0 +1,62 @@
+body{
+    background-color: black; 
+    color: white;
+    font-family: cursive;
+}
+
+h1{
+    color:black;
+    background-color: yellow;
+    text-align: center;
+    font-family: cursive;
+    font-size: 45px;
+    
+}
+
+footer{
+    color:white;
+    background-color: yellow;
+    text-align: center;
+    font-family: cursive;
+}
+
+#linea2{
+    color:white;
+    background-color: orange;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.form{
+    border: 1px solid green;
+    padding: 20px;
+    border-radius: 10px;
+    width: 950px;
+    margin: 0 auto;
+    background-color: gainsboro;
+    box-shadow: 0 0 70px 0 green
+}
+
+#letras{
+    color:black;
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+#letras2{
+    color:black;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+#celdas{
+    width: 950px;
+    background-color: yellow;
+}
+
+#celdas2{
+    width: 950px;
+    background-color: black;
+}
